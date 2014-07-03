@@ -1,4 +1,4 @@
-##YouTube-Hover-Links
+## YTHL (YouTube Hover Links)
 
 Detailed explanation coming soon &mdash; but basically &mdash; YTHL creates minimal YouTube embeds that open & auto-play on hover. Result: less wasted real estate.
 
@@ -10,6 +10,8 @@ Detailed explanation coming soon &mdash; but basically &mdash; YTHL creates mini
 
 3. Enjoy.
 
-[Live demo here]().
+**[Live demo here]()**
+
+**Notes**
 
 The plugin currently depends on  [Fitvids.js](https://github.com/davatron5000/FitVids.js) for responsive embeds - but if you can live without that, you can also nix the jQuery dependency. (You may have to refactor a little bit of code though.)
