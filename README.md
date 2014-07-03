@@ -1,4 +1,4 @@
-## YTHL (YouTube Hover Links) - a JS experiment
+## YouTube Hover Links (YTHL) - a JS experiment
 
 **[Live demo](http://nealrs.github.io/YTHL).**
 
