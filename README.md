@@ -2,7 +2,7 @@
 
 **[Live demo](http://nealrs.github.io/YTHL)**
 
-![Demo Video](https://github.com/nealrs/YTHL/blob/gh-pages/ythl.gif)
+![Demo Video](https://raw.githubusercontent.com/nealrs/YTHL/gh-pages/ythl.gif)
 
 YTHL creates minimal YouTube embeds that open & auto-play on hover. Result: less wasted real estate.
 
