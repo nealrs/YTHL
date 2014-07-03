@@ -14,4 +14,4 @@ YTHL creates minimal YouTube embeds that open & auto-play on hover. Result: less
 
 **Notes**
 
-The plugin currently depends on  [Fitvids.js](https://github.com/davatron5000/FitVids.js) for responsive embeds - but if you can live without that, you can also nix jQuery. (You'll have to refactor some of the code though.)
+YTHL depends on  [Fitvids.js](https://github.com/davatron5000/FitVids.js) for responsive embeds - but if you can live without that, you can also nix jQuery. (You'll have to refactor some of the code though.)
