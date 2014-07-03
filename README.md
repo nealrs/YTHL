@@ -1,4 +1,4 @@
-## YTHL (YouTube-Hover-Links)
+## YTHL (YouTube Hover Links)
 
 **[Live demo here](http://nealrs.github.io/YTHL).**
 
