@@ -1,6 +1,6 @@
-## YTHL (YouTube Hover Links)
+## YTHL (YouTube Hover Links) - a JS experiment
 
-**[Live demo here](http://nealrs.github.io/YTHL).**
+**[Live demo](http://nealrs.github.io/YTHL).**
 
 YTHL creates minimal YouTube embeds that open & auto-play on hover. Result: less wasted real estate.
 
